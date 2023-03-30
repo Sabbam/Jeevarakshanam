@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523295375472",
+    "project_id": "jeevarakshanam",
+    "storage_bucket": "jeevarakshanam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523295375472:android:c9b58531a622b4b977b4b5",
+        "android_client_info": {
+          "package_name": "com.jeevarakshanam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523295375472-ofc7mo9dhfl9220ui1gv3qecgqcrt1gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjo2M_nRvlsRftPXT2wSMeZDrBvmxz1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523295375472-ofc7mo9dhfl9220ui1gv3qecgqcrt1gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
